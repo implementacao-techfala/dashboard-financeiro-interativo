@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard Financeiro Interativo",
+  "description": "Um dashboard interativo para visualização, filtragem e gerenciamento de dados financeiros. Conecta-se a uma API para buscar, adicionar e deletar registros, apresentando os dados em gráficos e tabelas.",
+  "requestFramePermissions": []
+}
